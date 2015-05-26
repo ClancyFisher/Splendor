@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=x\ y\ n\ color
+comment0.target=Coin(int,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Coins\r\n
+comment1.params=
+comment1.target=void\ add()
+comment2.params=
+comment2.target=void\ remove()
+comment3.params=
+comment3.target=int\ type()
+comment4.params=
+comment4.target=java.awt.Color\ getColor()
+comment5.params=p
+comment5.target=boolean\ contains(java.awt.Point)
+comment6.params=x\ y
+comment6.target=boolean\ contains(int,\ int)
+comment7.params=g
+comment7.target=void\ draw(java.awt.Graphics)
+comment8.params=g
+comment8.target=void\ highlight(java.awt.Graphics)
+numComments=9
